@@ -16,3 +16,4 @@
 
 ##  Зв'язок
 *   email: acidisland@protonmail.com
+*   Matrix / Session: За запитом
